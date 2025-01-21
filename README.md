@@ -5,4 +5,4 @@
    此时模型会对val_data中的lmdb文件进行验证（inpaint后保留mol用于后续测试rmsd和mae）【可将train_data清空，这样验证完之后代码就不会继续运行】
    验证结束后会保存下来json和traj文件，其中test_rmsd用来计算json文件中的rmsd，test_mae用来计算json文件中的mae
 3. 验证过程有时候没办法对1个完整的lmdb文件进行验证，会有1个样本出现离谱的情况。此时需要用脚本“拆分lmdb”将1个lmdb拆解成很多个样本，并把几个样本放进val_data进行分批次验证
-4. 文件太大无法上传，用‘占位.txt’代替，在data中，train_data,val_data,分别是训练集和验证集。val_id和val_ood用来存放数据集备用，用哪个当验证集，就把哪个的数据复制到val_data(这些数据在https://github.com/AdeeshKolluru/AdsorbDiff可以找到)
+4. 文件太大无法上传，用‘占位.txt’代替，在data中，train_data,val_data,分别是训练集和验证集。val_id和val_ood用来存放数据集备用，用哪个当验证集，就把哪个的数据复制到val_data(这些数据在https://github.com/AdeeshKolluru/AdsorbDiff 可以找到)
