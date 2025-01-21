@@ -1,0 +1,1833 @@
+[
+    {
+        "sample_id": 1,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -6.045382499694824,
+                        -0.016662903130054474,
+                        5.754440784454346
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -6.5400261878967285,
+                        1.3005316257476807,
+                        5.851354598999023
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -6.367039680480957,
+                        3.2497425079345703,
+                        6.252937316894531
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -6.73527717590332,
+                        -0.8429149389266968,
+                        5.673740863800049
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.359849452972412,
+                        0.008394613862037659,
+                        5.867509841918945
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -4.704614639282227,
+                        -0.208714097738266,
+                        5.827077865600586
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -5.831744194030762,
+                        2.4723494052886963,
+                        6.163459300994873
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -4.209439277648926,
+                        0.2620859146118164,
+                        5.754214286804199
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -5.487693786621094,
+                        0.7759203910827637,
+                        5.851439476013184
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -4.832688331604004,
+                        2.5070061683654785,
+                        6.252955436706543
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -4.116532325744629,
+                        -0.838432788848877,
+                        5.673703193664551
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -6.373289108276367,
+                        0.14266395568847656,
+                        5.867518424987793
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.127741813659668,
+                        1.0163283348083496,
+                        5.827118873596191
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -5.717416763305664,
+                        2.0840821266174316,
+                        6.163399696350098
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 2,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.647803783416748,
+                        0.5831940174102783,
+                        5.205729007720947
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.124774217605591,
+                        -0.7170259952545166,
+                        4.881263732910156
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.8998911380767822,
+                        1.0557122230529785,
+                        6.524636268615723
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.679344654083252,
+                        -0.7016537189483643,
+                        6.529060363769531
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.065157890319824,
+                        0.5998485684394836,
+                        6.440829753875732
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.4751691818237305,
+                        0.7796262502670288,
+                        5.728804111480713
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.762986660003662,
+                        0.04917573928833008,
+                        5.205808639526367
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.116846084594727,
+                        -0.25533151626586914,
+                        4.881317138671875
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        1.5602846145629883,
+                        0.7523326873779297,
+                        6.5249786376953125
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.784729957580566,
+                        0.45012807846069336,
+                        6.529121398925781
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.523057460784912,
+                        0.5934615135192871,
+                        6.440958023071289
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.142759323120117,
+                        0.004721641540527344,
+                        5.728826522827148
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 3,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.8395638465881348,
+                        1.5178879499435425,
+                        8.71871280670166
+                    ],
+                    "properties": {},
+                    "label": "N"
+                },
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.619470477104187,
+                        2.345048427581787,
+                        8.586771965026855
+                    ],
+                    "properties": {},
+                    "label": "N"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.8341798782348633,
+                        1.355644702911377,
+                        8.71847152709961
+                    ],
+                    "properties": {},
+                    "label": "N"
+                },
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.717423439025879,
+                        2.4333605766296387,
+                        8.586711883544922
+                    ],
+                    "properties": {},
+                    "label": "N"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 4,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.321199655532837,
+                        0.21635758876800537,
+                        4.574295997619629
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.3278188705444336,
+                        0.21921634674072266,
+                        4.574312210083008
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 5,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.2096027135849,
+                        -5.988073825836182,
+                        3.9291634559631348
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.463134229183197,
+                        -6.757481098175049,
+                        3.994898557662964
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.9554551243782043,
+                        -5.145543098449707,
+                        4.503761291503906
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        1.01133394241333,
+                        -5.351734638214111,
+                        4.285405158996582
+                    ],
+                    "properties": {},
+                    "label": "H"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.43422985076904297,
+                        -5.743084907531738,
+                        3.929330825805664
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.48094797134399414,
+                        -6.837946891784668,
+                        3.994935989379883
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.251389503479004,
+                        -5.287614822387695,
+                        4.503822326660156
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.5376157760620117,
+                        -5.377018451690674,
+                        4.285390853881836
+                    ],
+                    "properties": {},
+                    "label": "H"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 6,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.0117104053497314,
+                        0.5570971965789795,
+                        6.479724407196045
+                    ],
+                    "properties": {},
+                    "label": "N"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.6755428314208984,
+                        0.8186554312705994,
+                        6.6054863929748535
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.4132916927337646,
+                        -0.7020430564880371,
+                        6.628361225128174
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.7483763694763184,
+                        1.6038718223571777,
+                        6.176865577697754
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.934735059738159,
+                        0.5480747222900391,
+                        6.479658126831055
+                    ],
+                    "properties": {},
+                    "label": "N"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.8448238372802734,
+                        1.121020793914795,
+                        6.605531692504883
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.014383316040039,
+                        -0.6781253814697266,
+                        6.628345489501953
+                    ],
+                    "properties": {},
+                    "label": "O"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -4.048153400421143,
+                        1.2680301666259766,
+                        6.17706298828125
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 7,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.4456238746643066,
+                        -2.7439703941345215,
+                        5.47944450378418
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.233673572540283,
+                        -3.072371482849121,
+                        5.452506065368652
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.3410685062408447,
+                        -1.319129467010498,
+                        5.87791109085083
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.013824701309204,
+                        -3.649242401123047,
+                        4.840404987335205
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.1834604740142822,
+                        -3.2034828662872314,
+                        6.49079704284668
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.6793822050094604,
+                        -2.0896241664886475,
+                        5.080622673034668
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.672218084335327,
+                        -2.8969874382019043,
+                        5.113429069519043
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.6489226818084717,
+                        -1.8720492124557495,
+                        5.479454040527344
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.4188971519470215,
+                        -3.3516597747802734,
+                        5.452432632446289
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.8037023544311523,
+                        -1.25747811794281,
+                        5.877893447875977
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.1739823818206787,
+                        -3.8626630306243896,
+                        4.840038299560547
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -2.467806816101074,
+                        -3.7284607887268066,
+                        6.490442276000977
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.4044361114501953,
+                        -3.569908380508423,
+                        5.080904006958008
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -3.681330680847168,
+                        -1.3186314105987549,
+                        5.1134033203125
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 8,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.006400520447641611,
+                        3.208820343017578,
+                        7.25339937210083
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -1.109545350074768,
+                        3.239863395690918,
+                        6.36689567565918
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.8417681455612183,
+                        3.7799034118652344,
+                        6.7972731590271
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.27667418122291565,
+                        2.265730381011963,
+                        8.015852928161621
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.3465995788574219,
+                        2.7345328330993652,
+                        7.253263473510742
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.3773975372314453,
+                        3.4136667251586914,
+                        6.366937637329102
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        -0.9359250068664551,
+                        4.253684043884277,
+                        6.797492980957031
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        1.001204013824463,
+                        2.110823154449463,
+                        8.015213012695312
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 9,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.1335933208465576,
+                        1.4860379695892334,
+                        4.780906677246094
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.33539754152297974,
+                        1.487247347831726,
+                        4.708680152893066
+                    ],
+                    "properties": {},
+                    "label": "N"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        1.7990789413452148,
+                        1.4941997528076172,
+                        4.780923843383789
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "N",
+                    "species": [
+                        {
+                            "element": "N",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        0.6572656631469727,
+                        1.4281044006347656,
+                        4.708744049072266
+                    ],
+                    "properties": {},
+                    "label": "N"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 10,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        6.108531475067139,
+                        -4.18382453918457,
+                        8.341785430908203
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        6.654310703277588,
+                        -4.176975250244141,
+                        7.021067142486572
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        6.566067695617676,
+                        -4.997923851013184,
+                        9.018228530883789
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.998142242431641,
+                        -4.467576026916504,
+                        8.32654857635498
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        6.193013668060303,
+                        -3.0442187786102295,
+                        8.991247177124023
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 1,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.740333080291748,
+                        -3.946899890899658,
+                        8.341394424438477
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.98860502243042,
+                        -3.477163076400757,
+                        7.021659851074219
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.071712970733643,
+                        -3.412546396255493,
+                        9.019134521484375
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        7.160508632659912,
+                        -5.216421127319336,
+                        8.326517105102539
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        6.554296970367432,
+                        -4.801565647125244,
+                        8.99107551574707
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    },
+    {
+        "sample_id": 11,
+        "mol1": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.0204570293426514,
+                        0.3067617416381836,
+                        5.31144905090332
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.9888155460357666,
+                        -0.6221362352371216,
+                        5.849925994873047
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.013043403625488,
+                        -0.3503187298774719,
+                        5.738025665283203
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.4729692935943604,
+                        1.2126458883285522,
+                        4.855186462402344
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.003204107284546,
+                        -0.14747445285320282,
+                        5.2584943771362305
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.750664234161377,
+                        -0.5392649173736572,
+                        6.9032673835754395
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.8677890300750732,
+                        -1.6751383543014526,
+                        5.796170234680176
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.8455569744110107,
+                        1.6721422672271729,
+                        5.27039098739624
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        },
+        "mol2": {
+            "@module": "pymatgen.core.structure",
+            "@class": "Molecule",
+            "charge": 0.0,
+            "spin_multiplicity": 2,
+            "sites": [
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.006168842315674,
+                        0.19423723220825195,
+                        5.311670303344727
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "C",
+                    "species": [
+                        {
+                            "element": "C",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.0322394371032715,
+                        -0.8170166015625,
+                        5.84965705871582
+                    ],
+                    "properties": {},
+                    "label": "C"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        5.026029109954834,
+                        0.17101144790649414,
+                        5.738920211791992
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        4.105086803436279,
+                        2.075247287750244,
+                        4.8555450439453125
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.104705333709717,
+                        -0.7990870475769043,
+                        5.258787155151367
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        2.7884325981140137,
+                        -0.5850639343261719,
+                        6.901519775390625
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "H",
+                    "species": [
+                        {
+                            "element": "H",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.4651646614074707,
+                        -1.8256340026855469,
+                        5.795833587646484
+                    ],
+                    "properties": {},
+                    "label": "H"
+                },
+                {
+                    "name": "O",
+                    "species": [
+                        {
+                            "element": "O",
+                            "occu": 1
+                        }
+                    ],
+                    "xyz": [
+                        3.455138683319092,
+                        1.4612879753112793,
+                        5.269491195678711
+                    ],
+                    "properties": {},
+                    "label": "O"
+                }
+            ],
+            "properties": {}
+        }
+    }
+]
